@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/blogpost/static/css/main.85130128.chunk.css",
+    "main.js": "/blogpost/static/js/main.787bad9a.chunk.js",
+    "main.js.map": "/blogpost/static/js/main.787bad9a.chunk.js.map",
+    "runtime-main.js": "/blogpost/static/js/runtime-main.d1834c8d.js",
+    "runtime-main.js.map": "/blogpost/static/js/runtime-main.d1834c8d.js.map",
+    "static/js/2.0673d227.chunk.js": "/blogpost/static/js/2.0673d227.chunk.js",
+    "static/js/2.0673d227.chunk.js.map": "/blogpost/static/js/2.0673d227.chunk.js.map",
+    "index.html": "/blogpost/index.html",
+    "precache-manifest.01b073136a8c798bbffdab32b4628f47.js": "/blogpost/precache-manifest.01b073136a8c798bbffdab32b4628f47.js",
+    "service-worker.js": "/blogpost/service-worker.js",
+    "static/css/main.85130128.chunk.css.map": "/blogpost/static/css/main.85130128.chunk.css.map",
+    "static/js/2.0673d227.chunk.js.LICENSE.txt": "/blogpost/static/js/2.0673d227.chunk.js.LICENSE.txt",
+    "static/media/home-office.jpg": "/blogpost/static/media/home-office.d09c13de.jpg",
+    "static/media/javascript.jpg": "/blogpost/static/media/javascript.6d031d68.jpg",
+    "static/media/learntocode.jpg": "/blogpost/static/media/learntocode.76f2e0f7.jpg",
+    "static/media/shradha DP.jpg": "/blogpost/static/media/shradha DP.15c589de.jpg",
+    "static/media/slider.jpg": "/blogpost/static/media/slider.9c53b0fd.jpg",
+    "static/media/startup-593341_640.jpg": "/blogpost/static/media/startup-593341_640.2db5d8e9.jpg",
+    "static/media/tech.jpg": "/blogpost/static/media/tech.6ad8d0a4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1834c8d.js",
+    "static/js/2.0673d227.chunk.js",
+    "static/css/main.85130128.chunk.css",
+    "static/js/main.787bad9a.chunk.js"
+  ]
+}
